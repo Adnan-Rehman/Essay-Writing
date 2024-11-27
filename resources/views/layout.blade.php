@@ -1696,7 +1696,6 @@
                     <div class="col-md-6">
                         <div class="cta-ft-heading">
                             <h5>Urgent Help Required ?</h5>
-                            <h4>A Testing Heading for Git Hub Project</h4>
                         </div>
                     </div>
 
